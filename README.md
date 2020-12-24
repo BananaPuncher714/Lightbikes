@@ -1,6 +1,6 @@
 # Lightbikes
 A tron clone but for the command line.
-![Loading screen](https://i.imgur.com/2UHM6Qg.gif)
+![Loading screen](https://i.imgur.com/C7pyVjg.gif)
 ![Gameplay](https://i.imgur.com/WT6gUhA.png)
 
 ## About
